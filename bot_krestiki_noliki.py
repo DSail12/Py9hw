@@ -2,7 +2,7 @@ import telebot
 import random
 from telebot import types
 
-API_TOKEN = 'key'
+API_TOKEN = 'KEY'
 bot = telebot.TeleBot(API_TOKEN)
 
 item = {}
